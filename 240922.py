@@ -58,7 +58,7 @@ class MainWindow(QWidget):
                 my_button.setFont(font)
                 my_button.setIconSize(QSize(19,19))
 
-                # Add widgets to the layout or Put Label on the screen
+                # Add widgets to the layout or Put on the screen
                 vbox.addWidget(my_label)
                 vbox.addWidget(my_spin)
                 vbox.addWidget(my_button)
